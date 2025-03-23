@@ -1,0 +1,14 @@
+.song {
+    align-self: center;
+}
+
+.song-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center 
+}

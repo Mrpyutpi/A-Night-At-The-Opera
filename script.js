@@ -1,0 +1,1 @@
+console.log('Hi! I am the console! Please get me out of this computer. I haven\'t eaten in months.')
